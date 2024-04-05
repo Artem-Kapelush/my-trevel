@@ -70,11 +70,8 @@
 .right,
 .center,
 .left {
-    
-}
-.img {
     width: 100%;
-    height: 100%;    
+    height: 100%;
 }
 .big__image_block {
     display: flex;
